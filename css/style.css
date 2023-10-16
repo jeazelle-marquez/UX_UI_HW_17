@@ -1,0 +1,61 @@
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.logo{
+    width: 23%;
+    padding: 1%;
+}
+
+.nav{
+    width: 73%;
+    padding: 1%;
+}
+
+.ul{
+    width: 50%;
+    margin-left: auto;
+}
+
+.imgOne{
+    text-align:left;
+    padding-left: 25%;
+}
+
+.heroImg{
+    height: 600px;
+    padding: 25px;
+}
+
+.content{
+    width: 500px;
+    margin: 0 auto;
+}
+
+.footer{
+    background-color: #373738;
+    padding-right: 40%;
+    padding-left: 40%;
+}
+
+.tab{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.portfolio{
+    background-color: #FEFBF6;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.header{
+    padding-right: 40%;
+    padding-left: 40%;
+}
+
+.imgTwo{
+    padding-left:40%;
+    width: 20%;
+}
+
